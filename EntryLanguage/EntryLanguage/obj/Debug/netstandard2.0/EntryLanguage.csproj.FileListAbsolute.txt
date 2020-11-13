@@ -1,0 +1,14 @@
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\bin\Debug\netstandard2.0\EntryLanguage.deps.json
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\bin\Debug\netstandard2.0\EntryLanguage.dll
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\bin\Debug\netstandard2.0\ref\EntryLanguage.dll
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\bin\Debug\netstandard2.0\EntryLanguage.pdb
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\obj\Debug\netstandard2.0\EntryLanguage.csprojAssemblyReference.cache
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\obj\Debug\netstandard2.0\EntryLanguage.AssemblyInfoInputs.cache
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\obj\Debug\netstandard2.0\EntryLanguage.AssemblyInfo.cs
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\obj\Debug\netstandard2.0\EntryLanguage.csproj.CoreCompileInputs.cache
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\obj\Debug\netstandard2.0\EntryLanguage.dll
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\obj\Debug\netstandard2.0\ref\EntryLanguage.dll
+C:\Users\samos\source\repos\EntryLanguage\EntryLanguage\EntryLanguage\obj\Debug\netstandard2.0\EntryLanguage.pdb
